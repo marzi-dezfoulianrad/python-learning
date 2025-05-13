@@ -2,8 +2,13 @@
 
 This repository includes:
 
-1. 📖 Exercises from *Automate the Boring Stuff with Python* by Al Sweigart
-2. 📊 Assignments and notebooks from a Data Science Bootcamp I'm currently attending
+1. Exercises from *Automate the Boring Stuff with Python*
+2. Assignments from my Data Science Bootcamp
 
-## 📁 Folder Structure
+## 📁 Structure
 
+automate_the_boring_stuff/
+    chapter_01/
+
+data_science_bootcamp/
+    week_01/
