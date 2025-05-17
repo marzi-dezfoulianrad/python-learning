@@ -2,7 +2,7 @@
 
 This repository includes:
 
-1. Exercises from *Automate the Boring Stuff with Python*
+1. Exercises from *Automate the Boring Stuff with Python* and other related excercises.
 2. Will be updated soon.
 
 ## 📁 Structure
